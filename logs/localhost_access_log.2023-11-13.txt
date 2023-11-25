@@ -1,0 +1,17 @@
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:13:55:42 +0530] "GET /BokStoreWebsite HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:13:55:42 +0530] "GET /BokStoreWebsite/ HTTP/1.1" 404 771
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:13:55:42 +0530] "GET /favicon.ico HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:15:36:07 +0530] "GET /BokStoreWebsite HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:15:36:07 +0530] "GET /BokStoreWebsite/ HTTP/1.1" 404 771
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:15:36:16 +0530] "GET /BokStoreWebsite/ HTTP/1.1" 404 771
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:15:36:27 +0530] "GET /BokStoreWebsite/index,jsp HTTP/1.1" 404 780
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:15:36:32 +0530] "GET /BokStoreWebsite/index,jsp HTTP/1.1" 404 780
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:15:36:32 +0530] "GET /BokStoreWebsite/index,jsp HTTP/1.1" 404 780
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:15:36:32 +0530] "GET /BokStoreWebsite/index,jsp HTTP/1.1" 404 780
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:15:36:33 +0530] "GET /BokStoreWebsite/index,jsp HTTP/1.1" 404 780
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:15:36:33 +0530] "GET /BokStoreWebsite/index,jsp HTTP/1.1" 404 780
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:15:36:41 +0530] "GET /BokStoreWebsite HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:15:36:41 +0530] "GET /BokStoreWebsite/ HTTP/1.1" 404 771
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:15:38:27 +0530] "GET /BokStoreWebsite HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:15:38:28 +0530] "GET /BokStoreWebsite/ HTTP/1.1" 200 52
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:17:19:18 +0530] "GET /BokStoreWebsite/ HTTP/1.1" 200 52

@@ -1,0 +1,13 @@
+You can use Reverse Engineering Tool like JPA buddy in Intellij and Hibernate Tool in Eclipse
+to automatically crete java persistence unit by connecting with db
+
+Assertion methods in Junit
+assertEquals(expected Value,actualValue)
+assertNotEquals(unexpected Value, actualValue)
+assertFalse(condition)
+assertTrue(condititon)
+assertNull(Object)
+assertNotNull(Object)
+
+Servlet:-
+
