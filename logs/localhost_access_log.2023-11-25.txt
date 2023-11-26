@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [25/Nov/2023:17:18:18 +0530] "GET /BokStoreWebsite HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [25/Nov/2023:17:18:18 +0530] "GET /BokStoreWebsite/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [25/Nov/2023:17:18:20 +0530] "GET /BokStoreWebsite/frontend/index.jsp HTTP/1.1" 200 2310
+0:0:0:0:0:0:0:1 - - [25/Nov/2023:17:18:20 +0530] "GET /BokStoreWebsite/css/footer.css HTTP/1.1" 200 566
+0:0:0:0:0:0:0:1 - - [25/Nov/2023:17:18:20 +0530] "GET /BokStoreWebsite/css/header.css HTTP/1.1" 200 1305
+0:0:0:0:0:0:0:1 - - [25/Nov/2023:17:18:20 +0530] "GET /BokStoreWebsite/image/logo.jpeg HTTP/1.1" 200 2942
+0:0:0:0:0:0:0:1 - - [25/Nov/2023:17:18:21 +0530] "GET /favicon.ico HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [25/Nov/2023:17:19:17 +0530] "GET /BokStoreWebsite/frontend/login.jsp HTTP/1.1" 200 3191
+0:0:0:0:0:0:0:1 - - [25/Nov/2023:17:19:17 +0530] "GET /BokStoreWebsite/css/login.css HTTP/1.1" 200 901
+0:0:0:0:0:0:0:1 - - [25/Nov/2023:17:19:17 +0530] "GET /BokStoreWebsite/frontend/css/styles.css HTTP/1.1" 404 802

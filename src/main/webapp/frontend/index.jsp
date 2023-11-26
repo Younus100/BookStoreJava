@@ -9,9 +9,9 @@
 </head>
 <body>
     <!-- Include the header -->
-    <jsp:include page="header.jsp" />
+    <jsp:directive.include file="header.jsp" />
 
     <h1>Welcome to Book Storeeeee</h1>
-    <jsp:include page="footer.jsp" />
+    <jsp:directive.include file="footer.jsp" />
 </body>
 </html>

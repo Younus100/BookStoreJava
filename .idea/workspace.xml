@@ -4,77 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab75c1b2-7db5-4fb4-a184-b3e3100edb3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy-datasource.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/Catalina/localhost/BokStoreWebsite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/catalina.policy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/catalina.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/jaspic-providers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/jaspic-providers.xsd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/logging.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/server.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/tomcat-users.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/tomcat-users.xsd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/catalina.2023-11-13.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/catalina.2023-11-16.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/catalina.2023-11-17.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/host-manager.2023-11-13.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/host-manager.2023-11-16.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/host-manager.2023-11-17.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/localhost.2023-11-13.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/localhost.2023-11-16.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/localhost.2023-11-17.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/localhost_access_log.2023-11-13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/localhost_access_log.2023-11-16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/localhost_access_log.2023-11-17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/manager.2023-11-13.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/manager.2023-11-16.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/manager.2023-11-17.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/bookdstore/controller/frontend/HomePageServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/bookdstore/dao/GenericDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/bookdstore/dao/JpaDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/bookdstore/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/bookdstore/entity/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/bookdstore/entity/BookOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/bookdstore/entity/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/bookdstore/entity/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/bookdstore/entity/OrderDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/bookdstore/entity/Review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/bookdstore/entity/Users.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/frontend/footer.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/frontend/header.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/frontend/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/frontend/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/image/logo.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CategoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/UserDaoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/UserTEst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work/Catalina/localhost/BokStoreWebsite/org/apache/jsp/frontend/footer_jsp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work/Catalina/localhost/BokStoreWebsite/org/apache/jsp/frontend/footer_jsp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work/Catalina/localhost/BokStoreWebsite/org/apache/jsp/frontend/header_jsp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work/Catalina/localhost/BokStoreWebsite/org/apache/jsp/frontend/header_jsp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work/Catalina/localhost/BokStoreWebsite/org/apache/jsp/frontend/index_jsp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work/Catalina/localhost/BokStoreWebsite/org/apache/jsp/frontend/index_jsp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work/Catalina/localhost/BokStoreWebsite/org/apache/jsp/frontend/login_jsp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work/Catalina/localhost/BokStoreWebsite/org/apache/jsp/frontend/login_jsp.java" afterDir="false" />
+    <list default="true" id="ab75c1b2-7db5-4fb4-a184-b3e3100edb3b" name="Changes" comment="First commit">
+      <change afterPath="$PROJECT_DIR$/logs/catalina.2023-11-25.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/catalina.2023-11-26.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/host-manager.2023-11-25.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/host-manager.2023-11-26.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/localhost.2023-11-25.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/localhost.2023-11-26.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/localhost_access_log.2023-11-25.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/localhost_access_log.2023-11-26.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/manager.2023-11-25.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/manager.2023-11-26.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/bookdstore/controller/frontend/HomePageServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/bookdstore/controller/frontend/HomePageServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/frontend/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/frontend/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work/Catalina/localhost/BokStoreWebsite/org/apache/jsp/frontend/index_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/work/Catalina/localhost/BokStoreWebsite/org/apache/jsp/frontend/index_jsp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work/Catalina/localhost/BokStoreWebsite/org/apache/jsp/frontend/index_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/work/Catalina/localhost/BokStoreWebsite/org/apache/jsp/frontend/index_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work/Catalina/localhost/BokStoreWebsite/org/apache/jsp/frontend/login_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/work/Catalina/localhost/BokStoreWebsite/org/apache/jsp/frontend/login_jsp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +37,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JpbToolWindowState">
@@ -282,6 +233,14 @@
       <option name="presentableId" value="Default" />
       <updated>1699863758319</updated>
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1700913446884</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700913446884</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -297,6 +256,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -322,7 +283,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/UserDaoTest.java</url>
           <line>26</line>
-          <properties class="UserDaoTest" method="testcreteUser">
+          <properties class="UserDaoTest">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>

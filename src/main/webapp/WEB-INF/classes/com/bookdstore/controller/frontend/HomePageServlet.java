@@ -12,7 +12,8 @@ public class HomePageServlet extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         System.out.println("Servlet at : " + req.getContextPath());
-//        req.getRequestDispatcher("frontend/index.jsp").forward(req,resp);
-        resp.sendRedirect("frontend/index.jsp");
+        req.getRequestDispatcher("frontend/index.jsp").forward(req,resp);
+//        resp.sendRedirect("frontend/index.jsp");
+        //Test branch //Main
     }
 }
