@@ -20,7 +20,7 @@
     <body>
     <div class="login-center">
         <div class="login-container">
-            <form class="login-form" action="/login" method="post">
+            <form class="login-form" action="index.jsp" method="post">
                 <h2>Login</h2>
                 <div class="input-group">
                     <label for="username">Username</label>

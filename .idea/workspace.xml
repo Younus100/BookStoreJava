@@ -4,22 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab75c1b2-7db5-4fb4-a184-b3e3100edb3b" name="Changes" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/logs/catalina.2023-11-25.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/catalina.2023-11-26.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/host-manager.2023-11-25.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/host-manager.2023-11-26.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/localhost.2023-11-25.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/localhost.2023-11-26.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/localhost_access_log.2023-11-25.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/localhost_access_log.2023-11-26.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/manager.2023-11-25.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/manager.2023-11-26.log" afterDir="false" />
+    <list default="true" id="ab75c1b2-7db5-4fb4-a184-b3e3100edb3b" name="Changes" comment="Second commit">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/admin/footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/admin/header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/admin/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/admin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/work/Catalina/localhost/BokStoreWebsite/org/apache/jsp/admin/index_jsp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/work/Catalina/localhost/BokStoreWebsite/org/apache/jsp/admin/index_jsp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/catalina.2023-11-26.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/catalina.2023-11-26.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/localhost.2023-11-26.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/localhost.2023-11-26.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/localhost_access_log.2023-11-26.txt" beforeDir="false" afterPath="$PROJECT_DIR$/logs/localhost_access_log.2023-11-26.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/bookdstore/controller/frontend/HomePageServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/bookdstore/controller/frontend/HomePageServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/frontend/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/frontend/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work/Catalina/localhost/BokStoreWebsite/org/apache/jsp/frontend/index_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/work/Catalina/localhost/BokStoreWebsite/org/apache/jsp/frontend/index_jsp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/frontend/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/frontend/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work/Catalina/localhost/BokStoreWebsite/org/apache/jsp/frontend/footer_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/work/Catalina/localhost/BokStoreWebsite/org/apache/jsp/frontend/footer_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work/Catalina/localhost/BokStoreWebsite/org/apache/jsp/frontend/header_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/work/Catalina/localhost/BokStoreWebsite/org/apache/jsp/frontend/header_jsp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/work/Catalina/localhost/BokStoreWebsite/org/apache/jsp/frontend/index_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/work/Catalina/localhost/BokStoreWebsite/org/apache/jsp/frontend/index_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work/Catalina/localhost/BokStoreWebsite/org/apache/jsp/frontend/login_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/work/Catalina/localhost/BokStoreWebsite/org/apache/jsp/frontend/login_jsp.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/work/Catalina/localhost/BokStoreWebsite/org/apache/jsp/frontend/login_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/work/Catalina/localhost/BokStoreWebsite/org/apache/jsp/frontend/login_jsp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +38,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
@@ -78,21 +85,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/YOUNUS SYED/Desktop/Java Cer1/BookStoreWebsite/src/main/webapp/WEB-INF&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.haulmont.jpb.reverseEngineering&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/YOUNUS SYED/Desktop/Java Cer1/BookStoreWebsite/src/main/webapp/admin",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "com.haulmont.jpb.reverseEngineering"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\YOUNUS SYED\Desktop\Java Cer1\BookStoreWebsite\src\main\webapp\admin" />
       <recent name="C:\Users\YOUNUS SYED\Desktop\Java Cer1\BookStoreWebsite\src\main\webapp\WEB-INF" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -240,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700913446884</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Second commit">
+      <created>1701001083628</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701001083628</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -257,7 +272,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="Second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
